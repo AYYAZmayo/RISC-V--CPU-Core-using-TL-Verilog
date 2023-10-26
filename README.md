@@ -1,5 +1,6 @@
-# RISC-V--CPU-Core-using-TL-Verilog
-Here I am explaining my journey of learning a new language TL-Verilog and buidling a RSICV-CPU core in a course offered by Linux Foundation on EDX.org platform. I implemented a simple RISC-V (RV32I) based CPU Core and implemented 31 out of the 47 instructions. The following content was taught in this course:
+# Building a RISC-V-CPU-Core-using-TL-Verilog
+# Introduction
+Here I am explaining my journey of learning a new language TL-Verilog and building a RSICV-CPU core in a course offered by Linux Foundation on EDX.org platform. I implemented a simple RISC-V (RV32I) based CPU Core and implemented 31 out of the 47 instructions. The following content was taught in this course:
 
 - Digital logic design: This segment served as a refresher for combinational and sequential logic.
 - RISC-V (RV32I) ISA: Gained an in-depth understanding of the RISC-V instruction set architecture, which is pivotal in modern processor design and development.

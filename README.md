@@ -4,5 +4,5 @@ Here I am explaining my journey of learning a new language TL-Verilog and buidli
 - Digital logic design: This segment served as a refresher for combinational and sequential logic.
 - RISC-V (RV32I) ISA: Gained an in-depth understanding of the RISC-V instruction set architecture, which is pivotal in modern processor design and development.
 - Basic CPU microarchitecture: The course provided insights into the basic microarchitectural elements of a CPU, enabling me to appreciate the inner workings of a processor.
-- Transaction-Level Verilog basics: This section equipped me with the knowledge and skills to describe digital circuits using Verilog, an essential tool for hardware description and design.
-- Makerchip online IDE: I learned to utilize Makerchip, an online integrated development environment, for digital design and simulation.
+- Transaction-Level Verilog basics: This section equipped me with the knowledge and skills to describe digital circuits using TL-Verilog, an essential tool for hardware description and design.
+- Makerchip online IDE: I learned to utilize Makerchip IDE, an online integrated development environment, for digital design and simulation.

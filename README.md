@@ -7,3 +7,5 @@ Here I am explaining my journey of learning a new language TL-Verilog and buildi
 - Basic CPU microarchitecture: The course provided insights into the basic microarchitectural elements of a CPU, enabling me to appreciate the inner workings of a processor.
 - Transaction-Level Verilog basics: This section equipped me with the knowledge and skills to describe digital circuits using TL-Verilog, an essential tool for hardware description and design.
 - Makerchip online IDE: I learned to utilize Makerchip IDE, an online integrated development environment, for digital design and simulation.
+
+![Screenshot 2023-10-21 213416](https://github.com/AYYAZmayo/RISC-V--CPU-Core-using-TL-Verilog/assets/43933912/29099ba1-d2bf-4213-9f70-d8c656f75b2c)
